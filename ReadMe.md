@@ -1,4 +1,4 @@
-YAMLScript
+ YAMLScript
 ==========
 
 Program in YAML — Code is Data
